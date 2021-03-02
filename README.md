@@ -1,7 +1,5 @@
 <h1 align="center">
-<br>
-  <img src="src/assets/logo.svg" alt="GoFinances" width="300px" align="center" >
-<br>
+
 <br>
 GoFinances - API
 </h1>
